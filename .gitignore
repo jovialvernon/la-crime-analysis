@@ -1,0 +1,16 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment
+venv/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Keep raw local data out of the public repo
+crimes.csv
