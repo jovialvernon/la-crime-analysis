@@ -20,11 +20,9 @@ Analyze crime records from Los Angeles to identify patterns in criminal activity
 
 ## Dataset Information
 
-**File used locally:** `crimes.csv`
+**Dataset:** `crimes.csv`
 
 The dataset contains Los Angeles crime records with columns for report date, occurrence date, time, area name, crime description, victim age, victim sex, victim descent, weapon description, status, and location.
-
-The raw dataset is not included in this public repository because it contains location and victim-related fields. To run the notebook locally, place `crimes.csv` in the project root.
 
 ---
 
@@ -53,7 +51,7 @@ The raw dataset is not included in this public repository because it contains lo
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/la-crime-analysis.git
+   git clone https://github.com/jovialvernon/la-crime-analysis.git
    ```
 
 2. Install the required packages:

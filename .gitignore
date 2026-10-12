@@ -11,6 +11,3 @@ venv/
 # Ignore OS-specific files
 .DS_Store
 Thumbs.db
-
-# Keep raw local data out of the public repo
-crimes.csv
